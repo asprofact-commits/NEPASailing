@@ -1,4 +1,4 @@
-# robots.txt — NEPA Saronida Sailing
+# robots.txt — Saronida Sailing
 User-agent: *
 Allow: /
 
@@ -18,4 +18,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://nepasailing.gr/sitemap.xml
+Sitemap: https://saronidasailing.gr/sitemap.xml

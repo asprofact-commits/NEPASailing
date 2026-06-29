@@ -2,35 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://nepasailing.gr/</loc>
+    <loc>https://saronidasailing.gr/</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://nepasailing.gr/img/sunset-sailing-cruise-athens-riviera.jpg</image:loc>
-      <image:title>Sunset sailing cruise on the Athens Riviera aboard a Bavaria 44</image:title>
+      <image:loc>https://saronidasailing.gr/img/sunset-sailing-cruise-saronida-athens-riviera.jpg</image:loc>
+      <image:title>Sunset sailing cruise from Saronida on the Athens Riviera aboard a Bavaria 44</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://nepasailing.gr/img/sailing-day-trip-poros-saronic-islands.jpg</image:loc>
-      <image:title>Private sailing day trip through the Saronic Gulf islands</image:title>
+      <image:loc>https://saronidasailing.gr/img/private-sailing-day-trip-saronic-gulf.jpg</image:loc>
+      <image:title>Private sailing day trip in a turquoise Saronic Gulf bay</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://nepasailing.gr/img/captain-theodoros-helm-private-charter.jpg</image:loc>
-      <image:title>Captain Theodoros at the helm of his sailing yacht</image:title>
+      <image:loc>https://saronidasailing.gr/img/captain-helm-corinth-canal-sailing.jpg</image:loc>
+      <image:title>Sailing the Bavaria 44 through the Corinth Canal from the helm</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://nepasailing.gr/img/bavaria-44-yacht-anchored-greek-cove.jpg</image:loc>
-      <image:title>Bavaria 44 yacht anchored in a Saronic Gulf cove</image:title>
+      <image:loc>https://saronidasailing.gr/img/bavaria-44-sailing-yacht-at-anchor.jpg</image:loc>
+      <image:title>Bavaria 44 sailing yacht at anchor in a Saronic Gulf bay</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://saronidasailing.gr/img/blue-cave-swim-stop-sailing-trip.jpg</image:loc>
+      <image:title>Turquoise sea cave swim stop on a private Saronic Gulf sailing trip</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://saronidasailing.gr/img/crystal-clear-turquoise-water-saronic-gulf.jpg</image:loc>
+      <image:title>Crystal-clear turquoise water on a Saronic Gulf swim stop</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://nepasailing.gr/privacy.html</loc>
+    <loc>https://saronidasailing.gr/onboard-rules.html</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://saronidasailing.gr/privacy.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://nepasailing.gr/terms.html</loc>
+    <loc>https://saronidasailing.gr/terms.html</loc>
     <lastmod>2026-06-25</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
